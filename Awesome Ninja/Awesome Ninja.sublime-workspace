@@ -1,0 +1,679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"anima",
+				"Animation\tAnimation"
+			],
+			[
+				"dolo",
+				"DOLocalMoveX(float endValue, float duration)\tTweener"
+			],
+			[
+				"shoudl",
+				"shouldCheckSignal\tbool"
+			],
+			[
+				"shouch",
+				"shouldCheckSignal\tbool"
+			],
+			[
+				"should",
+				"shouldCheckCard\tbool"
+			],
+			[
+				"chec",
+				"CheckSignal()\tvoid"
+			],
+			[
+				"senc",
+				"second\tText"
+			],
+			[
+				"col",
+				"Color\tColor"
+			],
+			[
+				"vec",
+				"Vector4()\tVector4()"
+			],
+			[
+				"c",
+				"color\tColor"
+			],
+			[
+				"u",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"Wai",
+				"WaitForSeconds\tWaitForSeconds"
+			],
+			[
+				"I",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"scree",
+				"screenMovementSpace\tQuaternion"
+			],
+			[
+				"screenmov",
+				"screenMovementRight\tVector3"
+			],
+			[
+				"scre",
+				"screenMovementSpace\tQuaternion"
+			],
+			[
+				"animat",
+				"Animator\tAnimator"
+			],
+			[
+				"dr",
+				"dirB\tVector3"
+			],
+			[
+				"dir",
+				"dirA\tVector3"
+			],
+			[
+				"mmo",
+				"movementDirection\tVector3"
+			],
+			[
+				"vect",
+				"Vector3\tVector3"
+			],
+			[
+				"Vect",
+				"Vector3\tVector3"
+			],
+			[
+				"camera",
+				"cameraAnim\tAnimation"
+			],
+			[
+				"camer",
+				"cameraAnim\tAnimation"
+			],
+			[
+				"anim",
+				"animatorInfo\tAnimatorStateInfo"
+			],
+			[
+				"pl",
+				"playerHealthRest\tint"
+			],
+			[
+				"attac",
+				"Attack()\tvoid"
+			],
+			[
+				"atta",
+				"attackTimer\tfloat"
+			],
+			[
+				"att",
+				"attackTimer\tfloat"
+			],
+			[
+				"s",
+				"Spawn()\tvoid"
+			],
+			[
+				"spo",
+				"spwanPointIndex\tint"
+			],
+			[
+				"spwa",
+				"spawnPoints\tTransform[]"
+			],
+			[
+				"str",
+				"struct\tstruct"
+			],
+			[
+				"bo",
+				"boxPrefab\tGameObject"
+			],
+			[
+				"nam",
+				"Name\tGameObject"
+			],
+			[
+				"pla",
+				"playerName\tstring"
+			],
+			[
+				"tex",
+				"Texts2Show\tstring[]"
+			],
+			[
+				"nu",
+				"Num2ChangeScene\tint"
+			],
+			[
+				"tie",
+				"Time\tTime"
+			],
+			[
+				"fri",
+				"firstTime\tfloat"
+			],
+			[
+				"scen",
+				"SceneManager\tSceneManager"
+			],
+			[
+				"scne",
+				"SceneManager\tSceneManager"
+			],
+			[
+				"unit",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"get",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"f",
+				"transform\tTransform"
+			],
+			[
+				"ani",
+				"animation\tComponent"
+			],
+			[
+				"i",
+				"normalizedTime\tfloat"
+			],
+			[
+				"getint",
+				"GetInteger(string name)\tint"
+			],
+			[
+				"set",
+				"SetInteger(string name, int value)\tvoid"
+			],
+			[
+				"getmou",
+				"GetMouseButtonDown(int button)\tbool"
+			],
+			[
+				"getin",
+				"GetInteger(int id)\tint"
+			],
+			[
+				"getcurr",
+				"GetCurrentAnimatorStateInfo(int layerIndex)\tAnimatorStateInfo"
+			],
+			[
+				"cae",
+				"cameraAnim\tAnimator"
+			],
+			[
+				"loc",
+				"localScale\tVector3"
+			],
+			[
+				"Veco",
+				"Vector3\tVector3"
+			],
+			[
+				"res",
+				"Resources\tResources"
+			],
+			[
+				"rec",
+				"RectTransform\tRectTransform"
+			],
+			[
+				"scrr",
+				"ScreenPointToLocalPointInRectangle(RectTransform rect, Vector2 screenPoint, Camera cam, out Vector2 localPoint)\tbool"
+			],
+			[
+				"rectt",
+				"RectTransformUtility\tRectTransformUtility"
+			],
+			[
+				"Scre",
+				"ScreenToViewportPoint(Vector3 position)\tVector3"
+			],
+			[
+				"Ve",
+				"Vector3\tVector3"
+			],
+			[
+				"ma",
+				"maleText\tText"
+			],
+			[
+				"de",
+				"Debug\tDebug"
+			],
+			[
+				"fe",
+				"female\tGameObject"
+			],
+			[
+				"fema",
+				"female\tGameObject"
+			],
+			[
+				"fem",
+				"female\tGameObject"
+			],
+			[
+				"Te",
+				"Text\tText"
+			],
+			[
+				"game",
+				"GameObject\tGameObject"
+			],
+			[
+				"t",
+				"transform\tTransform"
+			],
+			[
+				"sp",
+				"Sprite\tSprite"
+			],
+			[
+				"Unity",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"Getc",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"getcompo",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"star",
+				"StartEffect()\tvoid"
+			],
+			[
+				"female",
+				"femaleFrame\tGameObject"
+			],
+			[
+				"GetComponent",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"ty",
+				"TypeWriterScript\tTypeWriterScript"
+			],
+			[
+				"play",
+				"Play(string stateName)\tvoid"
+			],
+			[
+				"fin",
+				"Find(string n)\tTransform"
+			],
+			[
+				"ga",
+				"GameObject\tGameObject"
+			],
+			[
+				"pr",
+				"private\tprivate"
+			],
+			[
+				"pt",
+				"private"
+			],
+			[
+				"st",
+				"StopAllCoroutines()\tvoid"
+			],
+			[
+				"stopo",
+				"StopCoroutine(IEnumerator routine)\tvoid"
+			],
+			[
+				"sen",
+				"SendMessage(string methodName)\tvoid"
+			],
+			[
+				"g",
+				"gameObject\tGameObject"
+			],
+			[
+				"gam",
+				"GameObject\tGameObject"
+			],
+			[
+				"ienu",
+				"IEnumerator\tIEnumerator"
+			],
+			[
+				"start",
+				"StartCoroutine(IEnumerator routine)\tCoroutine"
+			],
+			[
+				"te",
+				"Text\tText"
+			],
+			[
+				"usn",
+				"using\tusing"
+			],
+			[
+				"Uni",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"getc",
+				"GetComponent<T>()\tT"
+			],
+			[
+				"fr",
+				"friendNum\tint"
+			],
+			[
+				"bt",
+				"buttonSelf\tGameObject"
+			],
+			[
+				"eve",
+				"EventSystems\tEventSystems"
+			],
+			[
+				"ev",
+				"EventSystems\tEventSystems"
+			],
+			[
+				"Untye",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"uni",
+				"UnityEngine\tUnityEngine"
+			],
+			[
+				"re",
+				"return\treturn"
+			],
+			[
+				"dub",
+				"Debug\tDebug"
+			],
+			[
+				"anc",
+				"anchoredPosition3D\tVector3"
+			],
+			[
+				"p",
+				"position\tVector3"
+			],
+			[
+				"tr",
+				"true\ttrue"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 242.0,
+		"history":
+		[
+			"Package Control",
+			"OmniSharp",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Unity Project/Unity-Tutorial/Awesome Ninja"
+	],
+	"file_history":
+	[
+		"/E/Unity Project/Awesome Ninja/Assets/Scripts/abc.cs",
+		"/E/UXUI/Projects/Awesome Skating/Awesome Skating.sublime-project",
+		"/E/UXUI/Projects/Awesome Skating/Assets/XHBScripts/TimerControl.cs",
+		"/E/UXUI/Projects/Awesome Skating/Assets/XHBScripts/ActionVarify.cs",
+		"/E/UXUI/Projects/Awesome Skating/Assets/XHBScripts/SignalControl.cs",
+		"/E/UXUI/Projects/Awesome Skating/Assets/XHBScripts/CardControl.cs",
+		"/E/UXUI/Projects/Awesome Skating/Temp/Compiled-Standard.shader",
+		"/E/Unity Project/Awesome Ninja/Assets/Scripts/FreeMovementMotor.cs",
+		"/E/UXUI/Projects/LX10/Devs/Lx10/Assets/Wzj/Scripts/EveryPlan.cs",
+		"/E/UXUI/Projects/LX10/Devs/Lx10/Assets/Wzj/Scripts/WeaponControl.cs",
+		"/E/UXUI/Projects/LX10/Devs/Lx10/Assets/Gx/Scripts/Player/PlayerControll.cs",
+		"/E/UXUI/Projects/倩女端游/Devs/QianNvBanghui/QianNvBanghui/Assets/Scripts/EliteScript.cs",
+		"/E/UXUI/Projects/倩女端游/Devs/QianNvBanghui/QianNvBanghui/Assets/Scripts/DeclareWarScript.cs",
+		"/E/UXUI/Projects/倩女端游/Devs/QianNvBanghui/QianNvBanghui/Assets/Scripts/MagicScript.cs",
+		"/E/Unity Project/Simulation Game/Simulation Game.sublime-project",
+		"/C/Users/xuhanbo/Desktop/YINv/Assets/Scripts/PlayerNameScript.cs",
+		"/C/Users/xuhanbo/Desktop/YINv/Assets/Scripts/Talk.cs",
+		"/E/Unity Project/Simulation Game/Assets/flip/Scripts/ControllerScripts.cs",
+		"/E/Unity Project/Otome/Assets/ReceivingCall/Scripts/ControllerScripts.cs",
+		"/E/Unity Project/Otome/Otome.sublime-project",
+		"/E/Unity Project/Otome Game/Assets/New Folder/Scripts/CameraScript.cs",
+		"/E/Unity Project/Otome Game/Otome Game.sublime-project",
+		"/E/Unity Project/Otome Game/Assets/Scripts/TypeWriterScript.cs",
+		"/E/Unity Project/Otome Game/Assets/Scripts/UIControllerScript.cs",
+		"/E/Unity Project/Otome Game/Assets/Scripts/CameraScript.cs",
+		"/E/Unity Project/Otome Game/Assets/DissolveEffectForUGUI/UIDissolve.cs",
+		"/E/Unity Project/Swordsman demo/Assets/Scripts/Game Managers/MainMenuController.cs",
+		"/E/Unity Project/Otome Game/Assets/Scripts/TypewriterEffect.cs",
+		"/E/Unity Project/Otome Game/Assets/Scripts/TypewritterEffect.cs",
+		"/E/Unity Project/Otome Game/Assets/Scripts/TypeWritterScript.cs",
+		"/E/Unity Project/Otome Game/",
+		"/E/Unity Project/Otome Game/Assets/DissolveEffectForUGUI/UI-Effect-Dissolve.shader",
+		"/E/Unity Project/Otome Game/Assets/DissolveEffectForUGUI/README.md",
+		"/E/Unity Project/Live2D Tutorial/Live2D Tutorial.sublime-project",
+		"/E/Unity Project/Live2D Tutorial/Assets/Scripts/CubismLookTarget.cs",
+		"/C/Users/xuhanbo/AppData/Roaming/Sublime Text 3/Packages/User/UnityC#.sublime-settings",
+		"/C/Users/xuhanbo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/E/Unity Project/Live2D Tutorial/Assets/Live2D/Cubism/Samples/LookAt/Billboarder.cs",
+		"/E/Unity Project/Live2D Tutorial/Assets/Live2D/Cubism/Core/CubismModel.cs",
+		"/E/Unity Project/Swordsman demo/Assets/KnifeAnimation.cs",
+		"/E/Unity Project/Swordsman demo/Assets/CameraAnimaton.cs",
+		"/E/Unity Project/Swordsman demo/Assets/countDown.cs",
+		"/E/Unity Project/Swordsman demo/Swordsman demo.sublime-project",
+		"/E/Unity Project/Swordsman demo/Swordsman demo.sln"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 52.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 199.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 199.0
+	},
+	"pinned_build_system": "",
+	"project": "Awesome Ninja.sublime-project",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
